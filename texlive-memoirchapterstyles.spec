@@ -1,6 +1,6 @@
 Name:		texlive-memoirchapterstyles
 Version:	59766
-Release:	1
+Release:	2
 Summary:	Chapter styles in memoir class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/memoirchapterstyles
